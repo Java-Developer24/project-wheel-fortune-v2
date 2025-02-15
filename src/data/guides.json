@@ -1,0 +1,35 @@
+{
+  "guides": [
+    { "id": "GD001", "name": "John Doe", "email": "john.doe@example.com", "cc": "manager1@example.com", "bucket": "diamond" },
+    { "id": "GD002", "name": "Jane Smith", "email": "balu2446madhu@gmail.com", "cc": "madhupolagouni@gmail.com", "bucket": "gold" },
+    { "id": "GD003", "name": "Surya", "email": "dsurya@godadaddy.com", "cc": "degala.surya@genpact.com", "bucket": "silver" },
+    { "id": "GD004", "name": "Sarah Williams", "email": "sarah.w@example.com", "cc": "manager1@example.com", "bucket": "bronze" },
+    { "id": "GD005", "name": "David Brown", "email": "david.b@example.com", "cc": "manager2@example.com", "bucket": "diamond" },
+    { "id": "GD006", "name": "Emily Davis", "email": "emily.d@example.com", "cc": "manager3@example.com", "bucket": "gold" },
+    { "id": "GD007", "name": "Chris Wilson", "email": "chris.w@example.com", "cc": "manager1@example.com", "bucket": "silver" },
+    { "id": "GD008", "name": "Lisa Anderson", "email": "lisa.a@example.com", "cc": "manager2@example.com", "bucket": "bronze" },
+    { "id": "GD009", "name": "Tom Taylor", "email": "tom.t@example.com", "cc": "manager3@example.com", "bucket": "diamond" },
+    { "id": "GD010", "name": "Amy Martin", "email": "amy.m@example.com", "cc": "manager1@example.com", "bucket": "gold" },
+    { "id": "GD011", "name": "Ryan Moore", "email": "ryan.m@example.com", "cc": "manager2@example.com", "bucket": "silver" },
+    { "id": "GD012", "name": "Emma White", "email": "emma.w@example.com", "cc": "manager3@example.com", "bucket": "bronze" },
+    { "id": "GD013", "name": "Kevin Lee", "email": "kevin.l@example.com", "cc": "manager1@example.com", "bucket": "diamond" },
+    { "id": "GD014", "name": "Rachel Green", "email": "rachel.g@example.com", "cc": "manager2@example.com", "bucket": "gold" },
+    { "id": "GD015", "name": "Mark Thompson", "email": "mark.t@example.com", "cc": "manager3@example.com", "bucket": "silver" },
+    { "id": "GD016", "name": "Sophie Turner", "email": "sophie.t@example.com", "cc": "manager1@example.com", "bucket": "bronze" },
+    { "id": "GD017", "name": "Peter Parker", "email": "peter.p@example.com", "cc": "manager2@example.com", "bucket": "diamond" },
+    { "id": "GD018", "name": "Mary Johnson", "email": "mary.j@example.com", "cc": "manager3@example.com", "bucket": "gold" },
+    { "id": "GD019", "name": "James Wilson", "email": "james.w@example.com", "cc": "manager1@example.com", "bucket": "silver" },
+    { "id": "GD020", "name": "Lucy Brown", "email": "lucy.b@example.com", "cc": "manager2@example.com", "bucket": "bronze" }
+  ],
+  "prizes": {
+    "diamond": ["🎉 Cheers", "🌴 Earned Leave", "🎧 Premium Headset"],
+    "gold": ["☕ Coffee with Tuhin", "🏠 WFH Perks"],
+    "silver": ["🏠 WFH Perks", "👕 GD T-Shirt"],
+    "bronze": ["👕 GD T-Shirt", "🍶 Water Bottle"]
+  },
+  "allPrizes": [
+    "🎉 Cheers", "🌴 Earned Leave", "🎧 Premium Headset",
+    "☕ Coffee with Tuhin", "🏠 WFH Perks",
+    "👕 GD T-Shirt", "🍶 Water Bottle"
+  ]
+}
